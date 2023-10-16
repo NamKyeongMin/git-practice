@@ -1,0 +1,32 @@
+total 13M
+drwxr-xr-x 1 kyeon 197609    0 Mar  7  2023 AppData/
+lrwxrwxrwx 1 kyeon 197609   30 Mar  7  2023 Application Data -> /c/Users/kyeon/AppData/Roaming/
+drwxr-xr-x 1 kyeon 197609    0 Mar  7  2023 Contacts/
+lrwxrwxrwx 1 kyeon 197609   58 Mar  7  2023 Cookies -> /c/Users/kyeon/AppData/Local/Microsoft/Windows/INetCookies/
+drwxr-xr-x 1 kyeon 197609    0 Mar  7  2023 Documents/
+drwxr-xr-x 1 kyeon 197609    0 Oct 16 21:17 Downloads/
+drwxr-xr-x 1 kyeon 197609    0 Mar  7  2023 Favorites/
+drwxr-xr-x 1 kyeon 197609    0 Mar  7  2023 Links/
+lrwxrwxrwx 1 kyeon 197609   28 Mar  7  2023 Local Settings -> /c/Users/kyeon/AppData/Local/
+drwxr-xr-x 1 kyeon 197609    0 Mar  7  2023 Music/
+lrwxrwxrwx 1 kyeon 197609   24 Mar  7  2023 My Documents -> /c/Users/kyeon/Documents/
+-rw-r--r-- 1 kyeon 197609 8.5M Oct 16 20:17 NTUSER.DAT
+-rw-r--r-- 1 kyeon 197609  64K Mar  7  2023 NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+-rw-r--r-- 1 kyeon 197609 512K Mar  7  2023 NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 kyeon 197609 512K Mar  7  2023 NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+lrwxrwxrwx 1 kyeon 197609   66 Mar  7  2023 NetHood -> /c/Users/kyeon/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+drwxr-xr-x 1 kyeon 197609    0 Oct 16 21:17 OneDrive/
+lrwxrwxrwx 1 kyeon 197609   66 Mar  7  2023 PrintHood -> /c/Users/kyeon/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+lrwxrwxrwx 1 kyeon 197609   55 Mar  7  2023 Recent -> /c/Users/kyeon/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 kyeon 197609    0 Mar  7  2023 Saved Games/
+drwxr-xr-x 1 kyeon 197609    0 Mar  7  2023 Searches/
+lrwxrwxrwx 1 kyeon 197609   55 Mar  7  2023 SendTo -> /c/Users/kyeon/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 kyeon 197609   58 Mar  7  2023 Templates -> /c/Users/kyeon/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 kyeon 197609    0 Mar 10  2023 Videos/
+-rw-r--r-- 1 kyeon 197609    0 Oct 16 23:39 file_list.txt
+drwxr-xr-x 1 kyeon 197609    0 Oct 16 23:36 new_directory/
+-rw-r--r-- 1 kyeon 197609 320K Mar  7  2023 ntuser.dat.LOG1
+-rw-r--r-- 1 kyeon 197609 2.2M Mar  7  2023 ntuser.dat.LOG2
+-rw-r--r-- 1 kyeon 197609   20 Mar  7  2023 ntuser.ini
+drwxr-xr-x 1 kyeon 197609    0 May 29 22:04 source/
+lrwxrwxrwx 1 kyeon 197609   59 Mar  7  2023 시작 메뉴 -> /c/Users/kyeon/AppData/Roaming/Microsoft/Windows/Start Menu/
